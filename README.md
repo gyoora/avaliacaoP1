@@ -11,3 +11,9 @@
   <li>JavaScript: Interatividade e funcionalidades.</li>
 </ul>
 <h2>Para iniciar o projeto, você pode usar os seguintes comandos:</h2>
+  <li>git clone</li>
+  <li>git checkout -b "front-end"</li>
+  <li>git add .</li>
+  <li>git push origin front-end</li>
+  <li>git checkout -b "admin"</li>
+  <li>git push origin admin</li>
