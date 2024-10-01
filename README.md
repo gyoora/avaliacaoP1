@@ -17,3 +17,6 @@
   <li>git push origin front-end</li>
   <li>git checkout -b "admin"</li>
   <li>git push origin admin</li>
+
+# Link para acessar o site 
+<a>https://gyoora.github.io/avaliacaoP1/</a>
